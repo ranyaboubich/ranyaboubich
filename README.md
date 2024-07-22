@@ -15,11 +15,6 @@ I'm an ICT engineering student passionate about development frameworks, DevOps, 
   - [Project 1](https://www.kaggle.com/code/ranyaboubich/using-llm-to-create-a-pdf-chatbot): ChatPDF using Llama2.
   - [Project 2](https://www.kaggle.com/code/ranyaboubich/using-llm-to-create-a-pdf-chatbot): Different word-embedding techniques on different deep learning models.
 
-## 📬 Contact Me
-- **Email**: [youremail@example.com](ranyaboubich@gmail.com)
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 <!--
 **ranyaboubich/ranyaboubich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
